@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ank-it07&label=Profile%20views&color=0e75b6&style=flat" alt="ank-it07" /> </p>
 
-- 🔭 I’m currently working on [movix](https://movix-five-alpha.vercel.app/)
+- 🔭 I’m currently working on [SpeaklyAI](http://speakly-ai.vercel.app/)
 
 - 🌱 I’m currently learning **Rust,Next js,Docker,k8s**
 
