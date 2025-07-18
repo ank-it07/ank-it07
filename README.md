@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">Engineered</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ank-it07&label=Profile%20views&color=0e75b6&style=flat" alt="ank-it07" /> </p>
 
-- 🔭 I’m currently working on [SpeaklyAI](http://speakly-ai.vercel.app/)
 
-- 🌱 I’m currently learning **Rust,Next js,Docker,k8s**
+ learning **Rust**
 
-- 💬 Ask me about **react,node,exprees**
+- reach **kumarankit908011@gmail.com**
 
-- 📫 How to reach me **kumarankit908011@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
